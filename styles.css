@@ -116,9 +116,9 @@ color: rgba(22, 37, 66, 1);
 .img2{
     width: 130px;
     height: 226px;
-   /* background-color: orange;
-   mix-blend-mode: multiply; */
-   /* opacity: 75%; */
+   background-color: #FF4500;
+   mix-blend-mode: multiply;
+   opacity: 87%;
    margin:0px -8px;
    margin-top: -240px;
    border-radius: 0px 25px 25px 0px;
