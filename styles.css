@@ -141,7 +141,7 @@ margin-top: -450px;
  line-height:36px;
  text-align: center;
  color: rgba(22, 37, 66, 1);
- margin: 45px 40px;
+ margin: 45px 50px;
 }
 
 .key3{
@@ -153,6 +153,7 @@ margin-top: -450px;
     line-height: 26px;
     color: rgba(123, 139, 173, 1);
     text-align:center;
+    margin: 45px 20px; ;
 }
 
 
